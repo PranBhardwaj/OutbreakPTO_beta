@@ -1,0 +1,8 @@
+.vs/
+Build/PC/
+Library/
+Logs/
+obj/
+.vsconfig
+Assembly-CSharp.csproj
+OutbreakPTO Prototype.sln
